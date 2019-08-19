@@ -17,6 +17,9 @@ class ViewController: UIViewController {
         print("ViewDidLoad")
         print("New Change in viewDidLoad")
     }
+    func temp(){
+        //do some_thing
+    }
 
 
 }
